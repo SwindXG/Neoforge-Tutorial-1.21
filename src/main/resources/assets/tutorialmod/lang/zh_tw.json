@@ -1,0 +1,10 @@
+{
+  "item.tutorialmod.bismuth": "鉍",
+  "item.tutorialmod.raw_bismuth": "鉍原礦",
+
+  "block.tutorialmod.bismuth_block": "鉍磚",
+  "block.tutorialmod.bismuth_ore": "鉍礦",
+
+  "creativetab.tutorialmod.bismuth_items": "鉍物品",
+  "creativetab.tutorialmod.bismuth_blocks": "鉍磚"
+}
